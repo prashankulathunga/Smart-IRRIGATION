@@ -1,1 +1,1 @@
-<h1>smart-irrigation-syste</h1>
+<h1>smart-irrigation-system</h1>
