@@ -1,0 +1,198 @@
+.main-outer{
+
+  height: 100vh;
+  width: 100%;
+}
+.header{
+
+  background-color: #1b531e;   
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 3rem;
+  position: fixed;
+  width: 1884px;
+  height: 80px;
+  z-index: 3;
+  border-radius: 12px;
+}
+
+.brand-name{
+  
+color: rgb(148, 212, 148);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.main-con{
+  font-size: 4rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 100%;
+  margin-top: 62px;
+  /* background-color: rgb(196, 238, 195); */
+  background-color: rgb(255, 255, 255);
+  height: auto;
+
+  border-radius: 12px;
+ 
+
+}
+
+.card1{
+  
+padding: 30px;
+border: none;
+
+
+}
+.progrss-chrts{
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}
+.carousel{
+  border: #1b531e 1px solid;
+  height: 190px;
+  margin: 5px;
+}
+
+.pofwater{
+  font-size: 1.5rem;
+}
+
+.pofrain{
+  font-size: 1.5rem;
+}
+
+
+.progrss{
+  margin-bottom: 50px;
+}
+
+.data-inputs{
+ margin: 80px 10px 50px 10px;
+
+height: 300px;
+display: flex ;
+justify-content: center;
+gap: 100px;
+}
+
+.but1{
+  width: 647.5px;
+  height:300px ;
+  border-radius: 12px;
+  display: contents;
+  color: #ffffff;
+ 
+}
+ 
+  
+.but2{
+  width: 647.5px;
+  height: 300px;
+  border-radius: 12px;
+  display: contents;
+  color: #ffffff;
+}
+
+.bgi1{
+  height: 290px;
+  width: 507.5px;
+  background-image: url(./assets/5.jpg.jpg);
+  background-size: cover;
+  border-radius: 12px;
+  box-shadow: #1b531e 1px 1px 8px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+
+}
+.bgi2{
+  height: 290px;
+  width: 507.5px;
+  background-image: url(./assets/12.jpg );
+  background-size: cover;
+  border-radius: 12px;
+  box-shadow: #1b531e 1px 1px 8px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.b1-text{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-text-stroke-color: #0f4921;
+  -webkit-text-stroke-width: 1px;
+}
+
+.b2-text{
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  -webkit-text-stroke-color: #0f4921;
+  -webkit-text-stroke-width: 1px;
+}
+
+.card4{
+  border: none;
+  /* box-shadow: #4e5a07 1px 1px 8px; */
+  box-shadow: 1px 1px 8px gainsboro;
+  padding: 12px 24px;
+  margin: 46px ;
+  height: auto;
+  margin-top: 42px;
+  /* background-color: #eff5be; */
+}
+
+.card2{
+
+  border: none;
+  /* box-shadow: #4e5a07 1px 1px 8px; */
+  box-shadow: 1px 1px 8px gainsboro;
+  padding: 12px 24px;
+  margin: 46px  ;
+  height: auto;
+  /* background-color: #eff5be; */
+}
+
+.card3{
+  border: none;
+  /* box-shadow: #120627 1px 1px 8px; */
+  box-shadow: 1px 1px 8px gainsboro;
+  padding: 12px 24px;
+  margin: 46px;
+  height: auto;
+  /* background-color: #c1bcdf; */
+}
+
+.tabel3{
+  border-radius: 12px;
+  border: none;
+}
+
+.table1{
+  border-radius: 12px;
+  border: none;
+ 
+}
+
+.card5{
+  height: 30px;
+  border: none;
+}
+
+.btn-submit-outer{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.btn-submit-outer > button{
+  background-color: #1b531e;
+  margin-top: 24px;
+}
+
